@@ -1,14 +1,20 @@
 # app-dev
 # My Favorite Series and Movies
 ** Series **
+
+* Most Favorite animes *
+
 - Hakyuu
 - Attack on Titan
 - Black Clover
-- Lucifer
+
+* Most Favorite Netflix Series *
+
 - Spy x Family
+- Lucifer
 - You
 - and so on
-
+---------------
 ** Movies **
-- Avengers
-- Horror movies
+1. Avengers
+2. Horror movies
